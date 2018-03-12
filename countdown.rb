@@ -9,6 +9,8 @@ def countdown(seconds)
 
     break if i == 0
   end
+
+  puts "HAPPY NEW YEAR!"
 end
 
 countdown(9)
